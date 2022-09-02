@@ -1,4 +1,3 @@
-id,URL,headline,author,date
 1,https://www.theverge.com/21539047/best-amazon-kindle-deals,Here are the best Kindle deals right now,Brandon Widder,2022/09/01
 2,https://www.theverge.com/2022/9/1/23332329/disney-prime-membership-program-being-explored,Disney is exploring a ‘Disney Prime’ membership program ,James Vincent,2022/09/01
 3,https://www.theverge.com/2022/9/1/23331803/eve-homekit-android-app-smart-light-switch-matter,Eve gets an Android app and launches a Thread version of its smart switch ,Jennifer Pattison Tuohy,2022/09/01
@@ -24,59 +23,56 @@ id,URL,headline,author,date
 23,https://www.theverge.com/2022/8/31/23330537/ev-battery-mineral-shortage-us-tax-credits,The shift to electric vehicles is about to overwhelm meager US mining operations,Andrew J. Hawkins,2022/08/31
 24,https://www.theverge.com/2022/8/31/23329133/t-mobile-app-network-pass-easy-switch-esim,T-Mobile will let you try its network free for three months,Allison Johnson,2022/08/31
 25,https://www.theverge.com/2022/8/31/23330521/la-nina-rare-triple-dip-world-meteorological-organization-forecast-extreme-weather,Get ready for a rare ‘triple-dip’ La Niña,Justine Calma,2022/08/31
-id,URL,headline,author,date
-26,https://www.theverge.com/2022/8/31/23330379/nvidia-broadcast-virtual-green-screen-obs-studio-support,Nvidia Broadcast support will make virtual green screens easier in OBS Studio,Jess Weatherbed,2022/08/31
-27,https://www.theverge.com/2022/8/31/23323224/apple-watch-pro-wearable-smartwatch-battery,What the Apple Watch Pro needs to succeed,Victoria Song,2022/08/31
-28,https://www.theverge.com/2022/8/31/23330392/xbox-360-games-with-gold-portal-2-last-game,Portal 2 is the last free Xbox 360 Games with Gold title,Tom Warren,2022/08/31
-29,https://www.theverge.com/2022/8/31/23330370/lg-oled-flex-tv-bendable-ifa-2022,LG’s first bendable OLED TV lets you pick between flat or curved modes,Tom Warren,2022/08/31
-30,https://www.theverge.com/2022/8/30/23329998/nasa-artemis-rocket-launch-second-attempt-date-time,NASA moves next Artemis I rocket launch attempt to September 3rd,Andrew J. Hawkins,2022/08/31
-31,https://www.theverge.com/2022/8/30/23329219/samsung-tv-plus-adds-more-free-channels-content-fast-streaming,Samsung adds more free channels and content to its TV Plus lineup,Emma Roth,2022/08/30
-32,https://www.theverge.com/2022/8/30/23329610/royal-caribbean-spacex-starlink-cruise-ships-celebrity-silversea,Royal Caribbean is putting SpaceX’s Starlink on its cruise ships,Mitchell Clark,2022/08/30
-33,https://www.theverge.com/2022/8/30/23329583/snaps-chief-business-officer-is-leaving-to-run-ads-at-netflix,Snap’s chief business officer is leaving to run ads at Netflix,Alex Heath,2022/08/30
-34,https://www.theverge.com/2022/8/30/23329295/apple-arcade-tom-hanks-trivia-hanx-writer-101,Apple Arcade’s latest exclusive is... a Tom Hanks passion project?,Mitchell Clark,2022/08/30
-35,https://www.theverge.com/2022/8/30/23329301/snap-layoffs-20-percent-employees-snapchat,Snap plans to lay off 20 percent of employees,Alex Heath,2022/08/30
-36,https://www.theverge.com/2022/8/30/23329075/virginia-judge-dismisses-gender-queer-obscenity-minors-case-aclu,Virginia judge shuts down demand to ban book sales to minors,Adi Robertson,2022/08/30
-37,https://www.theverge.com/2022/8/30/23329245/truth-social-donald-trump-google-play-store-dwac-spac,Truth Social is strapped for cash and struggling to find new users,Makena Kelly,2022/08/30
-38,https://www.theverge.com/2022/8/30/23328970/logitech-g502-x-lightspeed-plus-gaming-mouse-mice-optical-buttons-usb-c,Logitech’s new G502 X gaming mice have clicky optical buttons,Umar Shakir,2022/08/30
-39,https://www.theverge.com/good-deals/2022/8/30/23327362/sony-wh-1000xm5-headphones-xbox-series-s-google-pixel-phone-samsung-watch-earbuds-deal-sale,The Sony WH-1000XM5 headphones just got their first discount at Woot,Alice Newcome-Beill,2022/08/30
-40,https://www.theverge.com/2022/8/30/23328977/google-open-source-bug-bounty-supply-chain-hacks-dependencies,Google’s open-source bug bounty aims to clamp down on supply chain attacks,Mitchell Clark,2022/08/30
-41,https://www.theverge.com/2022/8/30/23329080/covid-test-free-white-house-website,This is the last week to get free rapid COVID-19 tests from the US government,Nicole Wetsman,2022/08/30
-42,https://www.theverge.com/2022/8/30/23329134/elon-musk-twitter-lawsuit-delay-whistleblower-testimony,Elon Musk pushes to delay the Twitter trial while citing whistleblower’s testimony,Richard Lawler,2022/08/30
-43,https://www.theverge.com/2022/8/30/23329032/cyberpunk-edgerunners-anime-netflix-release-date,Netflix’s Cyberpunk: Edgerunners anime gets September release date in new trailer,Andrew Webster,2022/08/30
-44,https://www.theverge.com/2022/8/30/23329021/instagram-explore-page-not-interested-flag-posts,Instagram is testing more ways to flag posts you’re not interested in,Mia Sato,2022/08/30
-45,https://www.theverge.com/2022/8/30/23328720/energy-department-feedback-lithium-ion-battery-recycling,The Department of Energy wants feedback on how to recycle lithium-ion batteries,Justine Calma,2022/08/30
-46,https://www.theverge.com/2022/8/30/23328728/cox-mobile-communications-launch,Cox is getting into the mobile industry — again,Jasmine Hicks,2022/08/30
-47,https://www.theverge.com/23328768/record-voice-notes-iphone-how-to,How to quickly record voice notes on your iPhone,Sheena Vasani,2022/08/30
-48,https://www.theverge.com/2022/8/30/23327525/twitter-zatko-whistleblower-insider-threat-free-expression,The security flaws that make Twitter’s insider threat so scary,Corin Faife,2022/08/30
-49,https://www.theverge.com/2022/8/30/23326789/ifa-2022-tech-news-updates-highlights-products-berlin,IFA 2022: all the news from Berlin’s big tech show,,2022/08/30
-50,https://www.theverge.com/2022/8/30/23328836/tesla-phantom-braking-problem-class-action-lawsuit,Tesla slapped with class action lawsuit over phantom braking problem,Andrew J. Hawkins,2022/08/30
-id,URL,headline,author,date
-51,https://www.theverge.com/23328543/netflix-holiday-2022-movie-lineup-enola-holmes-knives-out,Netflix’s holiday movie lineup is led by Enola Holmes and Knives Out sequels,Andrew Webster,2022/08/30
-52,https://www.theverge.com/2022/8/30/23328582/jbl-touchscreen-tour-pro-2-charging-case-one-m2-features,JBL’s new earbud charging case has a touchscreen so you can ditch the phone,Jess Weatherbed,2022/08/30
-53,https://www.theverge.com/2022/8/30/23323398/jbl-2022-soundbar-lineup-bar-1000-800-500-300-dolby-atmos,JBL launches more soundbars with detachable rear speakers,Umar Shakir,2022/08/30
-54,https://www.theverge.com/2022/8/30/23327515/uber-safety-toolkit-911-text-adt-agent,"Uber overhauls app safety features, including a new way to text 911",Andrew J. Hawkins,2022/08/30
-55,https://www.theverge.com/23312108/angry-miao-cyberblade-anc-earbuds-am-hatsu-mechanical-keyboards-arthouse-design-tech,The wild keyboard and headphone designs of Angry Miao,Antonio G. Di Benedetto,2022/08/30
-56,https://www.theverge.com/2022/8/30/23328514/starlink-outage-degraded-performance,Starlink suffered a global outage overnight,Thomas Ricker,2022/08/30
-57,https://www.theverge.com/2022/8/30/23328499/elon-musk-twitter-deal-termination-letter-whistleblower-testimony-mudge-zatko,Elon Musk says whistleblower’s testimony gives him more reasons to dump Twitter deal,James Vincent,2022/08/30
-58,https://www.theverge.com/2022/8/30/23328478/amd-rdna-3-gpu-ryzen-7000-cpu-announcement-livestream,AMD teases RDNA 3 GPUs as it sets a release date for Ryzen 7000 CPUs,Jess Weatherbed,2022/08/30
-59,https://www.theverge.com/2022/8/30/23328484/sony-playstation-5-lighter-model-australia,Sony makes the PS5 lighter just as the price goes up,Tom Warren,2022/08/30
-60,https://www.theverge.com/2022/8/30/23328442/france-ai-swimming-pool-tax-aerial-photos,French government uses AI to spot undeclared swimming pools — and tax them,James Vincent,2022/08/30
-61,https://www.theverge.com/2022/8/30/23328440/logitech-g-gaming-handheld-google-play-cloud-gaming,Logitech’s cloud gaming handheld leaks with Android apps and Switch-like UI,Tom Warren,2022/08/30
-62,https://www.theverge.com/2022/8/29/23327128/nft-instagram-facebook-meta-blockchain-wallet-opensea,Meta links Instagram’s NFT posts to Facebook as the market for ‘digital collectibles’ tanks,Mitchell Clark,2022/08/30
-63,https://www.theverge.com/2022/8/29/23327765/tesla-nlrb-ruling-union-busting-black-shirt-policy,"Tesla can’t stop employees from wearing union swag, labor board rules",Umar Shakir,2022/08/29
-64,https://www.theverge.com/2022/8/29/23327570/samsung-z-fold-4-passes-durability-tests-long-term-jerryrigeverything,"Samsung’s Z Fold 4 passes durability tests, but how will it hold up long term?",Emma Roth,2022/08/29
-65,https://www.theverge.com/2022/8/29/23327566/google-docs-add-emoji-shortcut,Google’s making it easier to add emoji in Docs,Mitchell Clark,2022/08/29
-66,https://www.theverge.com/2022/8/29/23321571/hp-business-965-4k-webcam-ai-follow-sony-starvis,HP’s new 4K business webcam uses AI to keep your whole team in the frame,Umar Shakir,2022/08/29
-67,https://www.theverge.com/2022/8/29/23327527/amazon-android-days-google-pixel-6a-sale-price-oneplus-motorola,Amazon is doing something called ‘Android Days’ with a great price on the Pixel 6A ,Allison Johnson,2022/08/29
-68,https://www.theverge.com/2022/8/29/23327614/biden-marijuana-cannabis-weed-decriminalization-john-fetterman-labor-day-pennsylvania,Biden faces growing pressure to legalize weed,Makena Kelly,2022/08/29
-69,https://www.theverge.com/2022/8/29/23327158/iphone-14-satellite-capabilities-carrier-agreement-negotiations,An iPhone 14 satellite link could depend on Apple cutting a deal with wireless carriers,Mitchell Clark,2022/08/29
-70,https://www.theverge.com/23326842/facebook-instagram-edit-post-how-to,"How to edit, delete, and restore a Facebook post",Barbara Krasnoff,2022/08/29
-71,https://www.theverge.com/2022/8/29/23327404/instagram-reels-sound-export-tiktok-bug-fix,Instagram fixes sound issue that hindered TikTok exports,Kaitlin Hatton,2022/08/29
-72,https://www.theverge.com/tech/2022/8/29/23327121/android-12l-based-update-galaxy-tab-s8-one-ui-4-1-1,The Samsung Galaxy Tab S8 should be improved with new Android 12L update,Emma Roth,2022/08/29
-73,https://www.theverge.com/2022/8/29/23326839/apple-watch-pro-rumors-band-compatibility-wearables,You might not be able to use older straps with the Apple Watch Pro,Victoria Song,2022/08/29
-74,https://www.theverge.com/2022/8/29/23327237/nasa-artemis-sls-orion-rocket-scrub-next-launch,NASA ‘not ready to give up’ after engine issue delays Artemis I rocket launch,Andrew J. Hawkins,2022/08/29
-75,https://www.theverge.com/good-deals/2022/8/29/23324116/apple-macbook-pro-bose-frames-tempo-jabra-elite-deal-sale,Apple’s 14-inch and 16-inch MacBook Pros have hit a new all-time low price,Sheena Vasani,2022/08/29
-id,URL,headline,author,date
+26,https://www.theverge.com/2022/8/31/23330123/snap-layoffs-announced-original-shows-canceled-games-mini-apps,Snap is canceling several projects and laying off 20 percent of employees,Alex Heath,2022/08/31
+27,https://www.theverge.com/2022/8/31/23329591/oppo-reno-8-pro-light-marisilicon-x-80w-charging,Oppo is bringing its Reno 8 midrange series to Europe,Allison Johnson,2022/08/31
+28,https://www.theverge.com/2022/8/31/23330454/bang-and-olufsen-beosound-theatre-atmos-soundbar-tv-stand,"Bang & Olufsen’s motorized TV stand and Atmos soundbar combo costs nearly $8,000",Jess Weatherbed,2022/08/31
+29,https://www.theverge.com/2022/8/31/23329373/dashlane-passkeys-password-manager,Dashlane is ready to replace all your passwords with passkeys,David Pierce,2022/08/31
+30,https://www.theverge.com/2022/8/31/23330379/nvidia-broadcast-virtual-green-screen-obs-studio-support,Nvidia Broadcast support will make virtual green screens easier in OBS Studio,Jess Weatherbed,2022/08/31
+31,https://www.theverge.com/2022/8/31/23323224/apple-watch-pro-wearable-smartwatch-battery,What the Apple Watch Pro needs to succeed,Victoria Song,2022/08/31
+32,https://www.theverge.com/23329564/asus-zenbook-17-fold-oled-review-price-screen-specs-foldable,Asus Zenbook 17 Fold OLED review: the best foldable yet,Monica Chin,2022/08/31
+33,https://www.theverge.com/2022/8/31/23330392/xbox-360-games-with-gold-portal-2-last-game,Portal 2 is the last free Xbox 360 Games with Gold title,Tom Warren,2022/08/31
+34,https://www.theverge.com/2022/8/31/23330370/lg-oled-flex-tv-bendable-ifa-2022,LG’s first bendable OLED TV lets you pick between flat or curved modes,Tom Warren,2022/08/31
+35,https://www.theverge.com/2022/8/30/23329998/nasa-artemis-rocket-launch-second-attempt-date-time,NASA moves next Artemis I rocket launch attempt to September 3rd,Andrew J. Hawkins,2022/08/31
+36,https://www.theverge.com/2022/8/30/23329219/samsung-tv-plus-adds-more-free-channels-content-fast-streaming,Samsung adds more free channels and content to its TV Plus lineup,Emma Roth,2022/08/30
+37,https://www.theverge.com/2022/8/30/23329610/royal-caribbean-spacex-starlink-cruise-ships-celebrity-silversea,Royal Caribbean is putting SpaceX’s Starlink on its cruise ships,Mitchell Clark,2022/08/30
+38,https://www.theverge.com/2022/8/30/23329583/snaps-chief-business-officer-is-leaving-to-run-ads-at-netflix,Snap’s chief business officer is leaving to run ads at Netflix,Alex Heath,2022/08/30
+39,https://www.theverge.com/2022/8/30/23329295/apple-arcade-tom-hanks-trivia-hanx-writer-101,Apple Arcade’s latest exclusive is... a Tom Hanks passion project?,Mitchell Clark,2022/08/30
+40,https://www.theverge.com/2022/8/30/23329301/snap-layoffs-20-percent-employees-snapchat,Snap plans to lay off 20 percent of employees,Alex Heath,2022/08/30
+41,https://www.theverge.com/2022/8/30/23329075/virginia-judge-dismisses-gender-queer-obscenity-minors-case-aclu,Virginia judge shuts down demand to ban book sales to minors,Adi Robertson,2022/08/30
+42,https://www.theverge.com/2022/8/30/23329245/truth-social-donald-trump-google-play-store-dwac-spac,Truth Social is strapped for cash and struggling to find new users,Makena Kelly,2022/08/30
+43,https://www.theverge.com/2022/8/30/23328970/logitech-g502-x-lightspeed-plus-gaming-mouse-mice-optical-buttons-usb-c,Logitech’s new G502 X gaming mice have clicky optical buttons,Umar Shakir,2022/08/30
+44,https://www.theverge.com/good-deals/2022/8/30/23327362/sony-wh-1000xm5-headphones-xbox-series-s-google-pixel-phone-samsung-watch-earbuds-deal-sale,The Sony WH-1000XM5 headphones just got their first discount at Woot,Alice Newcome-Beill,2022/08/30
+45,https://www.theverge.com/2022/8/30/23328977/google-open-source-bug-bounty-supply-chain-hacks-dependencies,Google’s open-source bug bounty aims to clamp down on supply chain attacks,Mitchell Clark,2022/08/30
+46,https://www.theverge.com/2022/8/30/23329080/covid-test-free-white-house-website,This is the last week to get free rapid COVID-19 tests from the US government,Nicole Wetsman,2022/08/30
+47,https://www.theverge.com/2022/8/30/23329134/elon-musk-twitter-lawsuit-delay-whistleblower-testimony,Elon Musk pushes to delay the Twitter trial while citing whistleblower’s testimony,Richard Lawler,2022/08/30
+48,https://www.theverge.com/2022/8/30/23329032/cyberpunk-edgerunners-anime-netflix-release-date,Netflix’s Cyberpunk: Edgerunners anime gets September release date in new trailer,Andrew Webster,2022/08/30
+49,https://www.theverge.com/2022/8/30/23329021/instagram-explore-page-not-interested-flag-posts,Instagram is testing more ways to flag posts you’re not interested in,Mia Sato,2022/08/30
+50,https://www.theverge.com/2022/8/30/23328720/energy-department-feedback-lithium-ion-battery-recycling,The Department of Energy wants feedback on how to recycle lithium-ion batteries,Justine Calma,2022/08/30
+51,https://www.theverge.com/2022/8/30/23328676/james-van-der-beek-siriusxm-podcast-lawsuit-stitcher,James Van Der Beek shows us what a celebrity podcast deal is worth,Ariel Shapiro,2022/08/30
+52,https://www.theverge.com/23328278/facebook-tom-alison-interview-instagram-meta-zuckerberg-news-feed-discovery-engine-tiktok,How the head of Facebook plans to compete with TikTok and win back Gen Z,Nilay Patel,2022/08/30
+53,https://www.theverge.com/2022/8/30/23328616/twitter-circle-now-available-everyone-limit-tweets-privacy,Now everyone can use Twitter Circle to keep certain posts private ,Emma Roth,2022/08/30
+54,https://www.theverge.com/2022/8/30/23327989/sony-ht-a3000-soundbar-features-price,Sony’s latest Dolby Atmos soundbar packs in the features for $699,Chris Welch,2022/08/30
+55,https://www.theverge.com/twitter,How Twitter’s child porn problem ruined its plans for an OnlyFans competitor,Zoe Schiffer,2022/08/30
+56,https://www.theverge.com/23328543/netflix-holiday-2022-movie-lineup-enola-holmes-knives-out,Netflix’s holiday movie lineup is led by Enola Holmes and Knives Out sequels,Andrew Webster,2022/08/30
+57,https://www.theverge.com/2022/8/30/23328582/jbl-touchscreen-tour-pro-2-charging-case-one-m2-features,JBL’s new earbud charging case has a touchscreen so you can ditch the phone,Jess Weatherbed,2022/08/30
+58,https://www.theverge.com/2022/8/30/23323398/jbl-2022-soundbar-lineup-bar-1000-800-500-300-dolby-atmos,JBL launches more soundbars with detachable rear speakers,Umar Shakir,2022/08/30
+59,https://www.theverge.com/2022/8/30/23327515/uber-safety-toolkit-911-text-adt-agent,"Uber overhauls app safety features, including a new way to text 911",Andrew J. Hawkins,2022/08/30
+60,https://www.theverge.com/23312108/angry-miao-cyberblade-anc-earbuds-am-hatsu-mechanical-keyboards-arthouse-design-tech,The wild keyboard and headphone designs of Angry Miao,Antonio G. Di Benedetto,2022/08/30
+61,https://www.theverge.com/2022/8/30/23328514/starlink-outage-degraded-performance,Starlink suffered a global outage overnight,Thomas Ricker,2022/08/30
+62,https://www.theverge.com/2022/8/30/23328499/elon-musk-twitter-deal-termination-letter-whistleblower-testimony-mudge-zatko,Elon Musk says whistleblower’s testimony gives him more reasons to dump Twitter deal,James Vincent,2022/08/30
+63,https://www.theverge.com/2022/8/30/23328478/amd-rdna-3-gpu-ryzen-7000-cpu-announcement-livestream,AMD teases RDNA 3 GPUs as it sets a release date for Ryzen 7000 CPUs,Jess Weatherbed,2022/08/30
+64,https://www.theverge.com/2022/8/30/23328484/sony-playstation-5-lighter-model-australia,Sony makes the PS5 lighter just as the price goes up,Tom Warren,2022/08/30
+65,https://www.theverge.com/2022/8/30/23328442/france-ai-swimming-pool-tax-aerial-photos,French government uses AI to spot undeclared swimming pools — and tax them,James Vincent,2022/08/30
+66,https://www.theverge.com/2022/8/30/23328440/logitech-g-gaming-handheld-google-play-cloud-gaming,Logitech’s cloud gaming handheld leaks with Android apps and Switch-like UI,Tom Warren,2022/08/30
+67,https://www.theverge.com/2022/8/29/23327128/nft-instagram-facebook-meta-blockchain-wallet-opensea,Meta links Instagram’s NFT posts to Facebook as the market for ‘digital collectibles’ tanks,Mitchell Clark,2022/08/30
+68,https://www.theverge.com/2022/8/29/23327765/tesla-nlrb-ruling-union-busting-black-shirt-policy,"Tesla can’t stop employees from wearing union swag, labor board rules",Umar Shakir,2022/08/29
+69,https://www.theverge.com/2022/8/29/23327570/samsung-z-fold-4-passes-durability-tests-long-term-jerryrigeverything,"Samsung’s Z Fold 4 passes durability tests, but how will it hold up long term?",Emma Roth,2022/08/29
+70,https://www.theverge.com/2022/8/29/23327566/google-docs-add-emoji-shortcut,Google’s making it easier to add emoji in Docs,Mitchell Clark,2022/08/29
+71,https://www.theverge.com/2022/8/29/23321571/hp-business-965-4k-webcam-ai-follow-sony-starvis,HP’s new 4K business webcam uses AI to keep your whole team in the frame,Umar Shakir,2022/08/29
+72,https://www.theverge.com/2022/8/29/23327527/amazon-android-days-google-pixel-6a-sale-price-oneplus-motorola,Amazon is doing something called ‘Android Days’ with a great price on the Pixel 6A ,Allison Johnson,2022/08/29
+73,https://www.theverge.com/2022/8/29/23327614/biden-marijuana-cannabis-weed-decriminalization-john-fetterman-labor-day-pennsylvania,Biden faces growing pressure to legalize weed,Makena Kelly,2022/08/29
+74,https://www.theverge.com/2022/8/29/23327158/iphone-14-satellite-capabilities-carrier-agreement-negotiations,An iPhone 14 satellite link could depend on Apple cutting a deal with wireless carriers,Mitchell Clark,2022/08/29
+75,https://www.theverge.com/23326842/facebook-instagram-edit-post-how-to,"How to edit, delete, and restore a Facebook post",Barbara Krasnoff,2022/08/29
 76,https://www.theverge.com/2022/8/28/23325916/tickets-movie-theaters-cost-3-dollars-national-cinema-day,Movie tickets at many theaters will cost just $3 on National Cinema Day,Emma Roth,2022/08/28
 77,https://www.theverge.com/2022/8/28/23326041/apple-trademark-filings-reality-branding-virtual-ar-vr-mixed-headset,Trademark filings point to ‘Reality’ branding for Apple’s mixed reality headset,Emma Roth,2022/08/28
 78,https://www.theverge.com/22630435/laptop-bag-messenger-backpack-tote-favorite,The Verge staff talk about their favorite backpacks and other bags,Verge Staff,2022/08/28
@@ -102,7 +98,6 @@ id,URL,headline,author,date
 98,https://www.theverge.com/2022/8/26/23323126/warner-bros-discovery-dan-lin-dc-films,Looks like Warner Bros. Discovery’s DC film franchise might have found its new leader,Charles Pulliam-Moore,2022/08/26
 99,https://www.theverge.com/2022/8/26/23323631/apple-antitrust-lawsuit-department-of-justice-case,Feds are thinking about an antitrust case against Apple,Russell Brandom,2022/08/26
 100,https://www.theverge.com/2022/8/26/23323665/joe-biden-dark-brandon-student-loan-forgiveness-republicans-midterm-elections,Democrats are getting comfortable clowning on Republicans online,Makena Kelly,2022/08/26
-id,URL,headline,author,date
 101,https://www.theverge.com/2022/8/26/23323082/moderna-lawsuit-pfizer-mrna-vaccine-patent,Moderna is suing Pfizer over its coronavirus vaccine,Nicole Wetsman,2022/08/26
 102,https://www.theverge.com/2022/8/26/23322956/lg-ultragear-45gr95qe-240hz-oled-ultrawide-gaming-monitor,LG’s latest OLED monitor has a super-quick 240Hz refresh rate,Jon Porter,2022/08/26
 103,https://www.theverge.com/2022/8/26/23319398/duolingo-math-app-beta-launch-duocon-2022,Duolingo has math now (and it’s kind of hard),Monica Chin,2022/08/26
@@ -128,7 +123,6 @@ id,URL,headline,author,date
 123,https://www.theverge.com/2022/8/25/23321488/peloton-q4-earnings-barry-mccarthy-fitness,Peloton CEO thinks losing $1.2 billion is a sign of ‘substantial progress’,Victoria Song,2022/08/25
 124,https://www.theverge.com/23313040/summer-hot-wireless-earbuds-cool-hack,Hear me out: chill your earbuds before you wear them,Cameron Faulkner,2022/08/25
 125,https://www.theverge.com/2022/8/25/23321940/twitter-podcast-spaces-spotify-apple,Twitter is becoming a podcast app,Ariel Shapiro,2022/08/25
-id,URL,headline,author,date
 126,https://www.theverge.com/2022/8/25/23321395/fortnite-charlie-puth-metaverse-concert-iheartland,iHeartRadio is trying out a Fortnite ‘metaverse’ concert arena ,Jess Weatherbed,2022/08/25
 127,https://www.theverge.com/2022/8/25/23321422/microsoft-flight-simulator-helicopters-gliders-40th-anniversary-edition,Microsoft Flight Simulator’s helicopters and gliders arrive on November 11th,Tom Warren,2022/08/25
 128,https://www.theverge.com/good-deals/2022/8/25/23319841/google-nest-wifi-mesh-router-eero-6-plus-earbuds-lenovo-legion-5i-gaming-laptop-deal-sale,Google’s Nest Wifi mesh router bundles are up to $150 off right now,Sheena Vasani,2022/08/25
@@ -154,7 +148,6 @@ id,URL,headline,author,date
 148,https://www.theverge.com/2022/8/24/23316748/steam-deck-shipping-production-reservation-q3-q4,Your Steam Deck might be coming by the end of September instead of Q4,Sean Hollister,2022/08/24
 149,https://www.theverge.com/2022/8/24/23320461/twitter-mdau-mudge-zatko-elon-musk-discovery,There’s a wonky number at the core of Elon Musk’s case against Twitter,Elizabeth Lopatto,2022/08/24
 150,https://www.theverge.com/23320306/whatsapp-india-messaging-business-privacy-land-of-the-giants,How India runs on WhatsApp,Alex Heath,2022/08/24
-id,URL,headline,author,date
 151,https://www.theverge.com/2022/8/24/23320133/spacex-starlink-t-mobile-connectivity-5g-satellite-elon-musk,SpaceX and T-Mobile’s August 25th event could blend Starlink satellite internet and 5G,Richard Lawler,2022/08/24
 152,https://www.theverge.com/2022/8/24/23319884/pqube-games-a-space-for-the-unbound-mojiken-studio,Indonesian developer accuses one of Guilty Gear’s publishers of exploitation,Ash Parrish,2022/08/24
 153,https://www.theverge.com/2022/8/24/23319690/hyperx-armada-25-27-gaming-monitor-arm-desk-mount-specs-gsync-features,HyperX is now in the monitor game,Cameron Faulkner,2022/08/24
@@ -180,7 +173,6 @@ id,URL,headline,author,date
 173,https://www.theverge.com/2022/8/23/23318956/acer-chromebook-vero-514-eco-conscious-laptop-recycling,Acer’s Vero 514 brings its ‘eco-conscious’ concept to a Chromebook,Mitchell Clark,2022/08/24
 174,https://www.theverge.com/2022/8/23/23318294/avatar-original-2009-theaters-september-the-way-of-water,Avatar is returning to theaters but disappearing from Disney Plus,Mitchell Clark,2022/08/23
 175,https://www.theverge.com/2022/8/23/23318869/gamescom-2022-trailers-announcements-opening-night-live,The best (and worst) of Opening Night Live,Ash Parrish,2022/08/23
-id,URL,headline,author,date
 176,https://www.theverge.com/2022/8/23/23318067/cleveland-state-university-online-proctoring-decision-room-scan,"University can’t scan students’ rooms during remote tests, judge rules",Monica Chin,2022/08/23
 177,https://www.theverge.com/2022/8/23/23318217/sonic-frontiers-release-date-story-trailer-sega,Sonic Frontiers arrives November 8th,Ash Parrish,2022/08/23
 178,https://www.theverge.com/2022/8/23/23318597/gearbox-new-tales-from-the-borderlands-release-date,Gearbox’s New Tales from the Borderlands launches in October,Jay Peters,2022/08/23
@@ -206,7 +198,6 @@ id,URL,headline,author,date
 198,https://www.theverge.com/2022/8/23/23318076/sony-ps5-bundle-horizon-forbidden-west-console-restock-check-walmart-plus,Walmart is restocking PS5 bundles for its paid subscribers at 3PM ET today,Antonio G. Di Benedetto,2022/08/23
 199,https://www.theverge.com/23317682/advertising-wieden-kennedy-ceo-neal-arthur-interview-decoder,Advertising is everywhere — Wieden+Kennedy CEO Neal Arthur explains how it works,Nilay Patel,2022/08/23
 200,https://www.theverge.com/2022/8/23/23318053/binance-comms-crypto-chief-deepfake-scam-claim-patrick-hillmann,Binance executive claims scammers made a deepfake of him,James Vincent,2022/08/23
-id,URL,headline,author,date
 201,https://www.theverge.com/2022/8/23/23317108/steelseries-arctis-nova-wireless-7-3-1-price-features-gaming-headset-wireless,SteelSeries’ new Nova 7 Wireless actually costs less than the Xbox Series S,Cameron Faulkner,2022/08/23
 202,https://www.theverge.com/2022/8/23/23317835/youtube-tv-four-channels-live-streams-simultaneously-shorts-smart-tv-music,YouTube TV update will reportedly let you watch four channels at once,Jon Porter,2022/08/23
 203,https://www.theverge.com/2022/8/23/23317795/microsoft-windows-11-2022-update-naming,Microsoft might finally simplify its Windows 11 update names,Tom Warren,2022/08/23
@@ -232,7 +223,6 @@ id,URL,headline,author,date
 223,https://www.theverge.com/2022/8/22/23316907/youtube-podcast-page-spotify-apple,YouTube launches a dedicated page for podcasts,Ariel Shapiro,2022/08/22
 224,https://www.theverge.com/2022/8/22/23316711/the-game-awards-date-geoff-keighley-december-8,The Game Awards sets a date: December 8th,Ash Parrish,2022/08/22
 225,https://www.theverge.com/2022/8/22/23316860/bitcoin-ethereum-cryptocurrency-blake-masters-arizona-mark-kelly-senate-election,Blake Masters’ Bitcoin investments tanked in 2022,Makena Kelly,2022/08/22
-id,URL,headline,author,date
 226,https://www.theverge.com/2022/8/22/23316140/video-game-movies-days-gone-comix-zone,Obscure video game movies could flood the industry following Sonic’s success,Jess Weatherbed,2022/08/22
 227,https://www.theverge.com/2022/8/22/23316128/meta-end-to-end-encryption-messenger-child-safety-priti-patel-uk-home-secretary-grotesuqe-betrayal,"Encrypting Messenger could be a ‘grotesque betrayal,’ says top UK politician",James Vincent,2022/08/22
 228,https://www.theverge.com/2022/8/22/23316109/the-rehearsal-nathan-fielder-hbo-second-season-announced,Nathan Fielder’s The Rehearsal is getting a second season,Jon Porter,2022/08/22
@@ -258,7 +248,6 @@ id,URL,headline,author,date
 248,https://www.theverge.com/2022/8/19/23313335/fitbit-sense-2-versa-4-google-wallet,Fitbit Pay’s days might be numbered,Victoria Song,2022/08/19
 249,https://www.theverge.com/2022/8/19/23313103/wayfair-870-layoffs-boston-retail-furniture-home,"Wayfair lays off 870 people, about 5 percent of its global workforce",Jasmine Hicks,2022/08/19
 250,https://www.theverge.com/2022/8/19/23312917/pokemon-worlds-2022-what-to-watch-this-weekend-esports-flame-fatales,What to watch this weekend (if you like Pokémon),Ash Parrish,2022/08/19
-id,URL,headline,author,date
 251,https://www.theverge.com/2022/8/19/23312949/ps5-console-restock-playstation-5,The PlayStation 5 is almost easy to buy,Cameron Faulkner,2022/08/19
 252,https://www.theverge.com/2022/8/19/23312913/worldwide-bicycle-commute-netherlands-climate-change,"To fight climate change, we need to start biking like the Dutch",Justine Calma,2022/08/19
 253,https://www.theverge.com/good-deals/22876408/best-gaming-headset-deals-sales,The best gaming headset deals you can get right now,Alice Newcome-Beill,2022/08/19
@@ -284,7 +273,6 @@ id,URL,headline,author,date
 273,https://www.theverge.com/2022/8/18/23311815/heres-what-embracer-group-can-and-cant-do-with-lord-of-the-rings,Here’s what Embracer Group can (and can’t) do with Lord of the Rings,Ash Parrish,2022/08/18
 274,https://www.theverge.com/2022/8/18/23311752/pfas-forever-chemicals-clean-up-destruction-research,A new way to smash the ‘forever’ out of ‘forever chemicals’,Justine Calma,2022/08/18
 275,https://www.theverge.com/2022/8/18/23312081/rivian-r1t-r1s-price-increase-explore-package-discontinued,Some Rivian customers aren’t happy the company canceled its most affordable electric truck,Mitchell Clark,2022/08/18
-id,URL,headline,author,date
 276,https://www.theverge.com/2022/8/18/23311492/big-ten-sports-streaming-deal-peacock-paramount-confusing,The Big Ten’s new deal makes sports streaming rights more confusing than ever,David Pierce,2022/08/18
 277,https://www.theverge.com/good-deals/2022/8/18/23309724/microsoft-xbox-series-s-samsung-galaxy-buds-2-oneplus-10t-deal-sale,Microsoft’s adorable Xbox Series S is $50 off at Adorama right now,Alice Newcome-Beill,2022/08/18
 278,https://www.theverge.com/2022/8/18/23311438/youtube-shorts-watermark-tiktok-instagram-reels-cross-platform-sharing,All the YouTube Shorts you repost to TikTok will now tell on you,Mia Sato,2022/08/18
@@ -310,7 +298,6 @@ id,URL,headline,author,date
 298,https://www.theverge.com/2022/8/17/23310620/wordle-recommended-suggested-starting-word-wordlebot-2-0-slate-crane,Wordle’s upgraded Wordlebot has a new recommended starting word,Jay Peters,2022/08/17
 299,https://www.theverge.com/23310457/inflation-reduction-act-ev-tax-credit-act-explainer-how-to,"Yes, the new electric vehicle tax credits are really confusing, but we can help ",Andrew J. Hawkins,2022/08/17
 300,https://www.theverge.com/23302947/philips-hue-play-sync-box-gradient-lightstrip-review,"Philips Hue Play sync box and gradient lightstrip review: wholly unnecessary, totally delightful",Brent Rose,2022/08/17
-id,URL,headline,author,date
 301,https://www.theverge.com/2022/8/17/23309610/ev-tax-credit-inflation-reduction-act-explain-how-to-help,"Yes, the new electric vehicle tax credits are really confusing, but we can help ",Andrew J. Hawkins,2022/08/17
 302,https://www.theverge.com/2022/8/17/23309932/facebook-donald-trump-ban-january-6th-twitter-presidential-bid,Facebook won’t rush the review of its Donald Trump ban,Makena Kelly,2022/08/17
 303,https://www.theverge.com/2022/8/17/23309796/airbnb-android-users-accidental-test-notification,Airbnb accidentally sent tons of Android users a ‘test’ notification,Emma Roth,2022/08/17
@@ -336,7 +323,6 @@ id,URL,headline,author,date
 323,https://www.theverge.com/2022/8/16/23308514/american-airlines-boom-supersonic-jet-order,American Airlines places order for 20 supersonic jets from Boom Supersonic ,Andrew J. Hawkins,2022/08/16
 324,https://www.theverge.com/2022/8/16/23308335/alienware-gaming-monitors-360hz-overclock-25-27-headphone-holder,Alienware’s new high-speed gaming monitors have a place to hang your headphones,Umar Shakir,2022/08/16
 325,https://www.theverge.com/2022/8/16/23307953/amazon-jeff-bezos-andy-jassy-ftc-antitrust-investigation,Jeff Bezos and Amazon’s current CEO are fighting FTC attempts to make them testify,Richard Lawler,2022/08/16
-id,URL,headline,author,date
 326,https://www.theverge.com/good-deals/2022/8/16/23306352/apple-m2-macbook-air-amazon-kindle-echo-show-robot-vacuum-deal-sale,Apple’s new M2-powered MacBook Air is on sale for the first time today,Sheena Vasani,2022/08/16
 327,https://www.theverge.com/2022/8/16/23307081/atlantic-hurricane-season-storms-arrive-early,Atlantic hurricane seasons are running ahead of schedule,Justine Calma,2022/08/16
 328,https://www.theverge.com/23307449/selena-gomez-rare-beauty-marketing-katie-welch,"How Selena Gomez’s Rare Beauty goes viral, with CMO Katie Welch",Nilay Patel,2022/08/16
@@ -362,7 +348,6 @@ id,URL,headline,author,date
 348,https://www.theverge.com/featured-story,The Verge’s 2022 back-to-school gift guide,Alice Newcome-Beill,2022/08/15
 349,https://www.theverge.com/2022/8/15/23306798/android-13-roll-back-android-12-pixel-6-tensor-bootloader,You can’t revert from Android 13 to Android 12 on Pixel 6 devices,Jay Peters,2022/08/15
 350,https://www.theverge.com/2022/8/15/23307055/walmart-plus-subscribers-free-streaming-content-paramount-plus-amazon-prime,Walmart Plus subscribers are about to get a lot of streaming content for free,Alex Cranz,2022/08/15
-id,URL,headline,author,date
 351,https://www.theverge.com/2022/8/15/23306349/three-arrows-capital-3ac-collapse-kyle-davies-su-zhu-cryptocurrency,$150 million ‘Much Wow’ yacht left behind by crypto hedge fund’s collapse ,Emma Roth,2022/08/15
 352,https://www.theverge.com/21302051/best-apple-airpods-deals,Here are the best AirPods deals you can get right now,Sheena Vasani,2022/08/15
 353,https://www.theverge.com/2022/8/15/23306417/ev-tax-credit-binding-contract-electric-vehicle,"Buying an EV is about to be a pain in the ass, thanks to stricter tax credits",Andrew J. Hawkins,2022/08/15

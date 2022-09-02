@@ -44,5 +44,5 @@ for page in range(1, 16):
     filename = str(datetime.date.today()).replace("-","")+"_verge"+".csv"
     with open(filename, 'a', newline='') as f:
         w = csv.DictWriter(f,['id','URL','headline','author','date'])
-        w.writeheader()
+        # w.writeheader()
         w.writerows(titles_list)
