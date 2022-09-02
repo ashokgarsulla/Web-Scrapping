@@ -18,13 +18,13 @@ for page in range(1, 16):
     titles = soup.find_all('div', attrs={'class', 'c-entry-box--compact__body'})
     titles_list = []
     
-    for i in titles:
-        if i.find("a") is not None:
-            # print(i.find("a").get('href'))
-            pass
-    # for link in titles.find_all('a',attrs={'href': re.compile("^https://")}):
-    # # display the actual urls
-    #     print(link.get('href'))  
+    # for i in titles:
+    #     if i.find("a") is not None:
+    #         # print(i.find("a").get('href'))
+    #         pass
+    # # for link in titles.find_all('a',attrs={'href': re.compile("^https://")}):
+    # # # display the actual urls
+    # #     print(link.get('href'))  
     
 
     
@@ -44,5 +44,5 @@ for page in range(1, 16):
     filename = str(datetime.date.today()).replace("-","")+"_verge"+".csv"
     with open(filename, 'a', newline='') as f:
         w = csv.DictWriter(f,['id','URL','headline','author','date'])
-        # w.writeheader()
+        w.writeheader()
         w.writerows(titles_list)
